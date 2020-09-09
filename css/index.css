@@ -1,0 +1,225 @@
+#row1{
+    
+    height: 520px;
+    
+}
+#row1img{
+    
+    width:1349px;
+    height:520px;
+   margin-left:-15px;
+   
+    position:absolute;
+    animation-name:imganimation;
+    animation-iteration-count:1;
+    animation-duration:7s;
+    animation-direction: normal;
+    
+}
+@keyframes imganimation{
+    0%{
+        margin-left:-1349px;
+    }
+    
+   
+}
+
+#row1span{
+    position:relative;
+   font-size:40px;
+   font-weight:bold;
+   margin-left:430px;
+   animation-name:spananimation;
+   animation-iteration-count:1;
+    animation-duration:8s;
+    animation-direction: normal;
+    margin-top:150px;
+    color:white;
+    animation-delay:1s;
+}
+@keyframes spananimation{
+    0%{
+        margin-left:0px;
+    }
+    100%{
+        margin-left:430px;
+        margin-top:150px;
+        color:red;
+        opacity:0.7;
+    }
+}
+
+#categoryp{
+    font-size:26px;
+    color:black;
+    font-weight:bold;
+    letter-spacing:1px;
+}
+/* ROW 2 CSS */
+#row3{
+    height:330px;
+}
+
+#row2col1{
+    
+}
+#row3col1img{
+    width:672px;
+    height:330px;
+    margin-left:-13px;
+    
+}
+#row3col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+#row4col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row4col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+#row5col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row5col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+#row6col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row6col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+
+#row7col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row7col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+#row8col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row8col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+
+#row9col1img{
+    width:673px;
+    height:330px;
+    margin-left:-14px;
+    
+}
+#row9col1img:hover{
+    cursor: pointer;
+    opacity:0.8;
+}
+
+#row3p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:100px;
+    font-family: 'Roboto Mono', monospace;
+}
+#row3p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row4p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row5p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row6p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row7p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row8p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#row9p1:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+#row4p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:120px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#row5p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:120px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#row6p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:120px;
+    font-family: 'Roboto Mono', monospace;
+}
+#row7p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:120px;
+    font-family: 'Roboto Mono', monospace;
+}
+#row8p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:220px;
+    margin-top:120px;
+    font-family: 'Roboto Mono', monospace;
+}
+#row9p1{
+    font-size:30px;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-left:270px;
+    margin-top:140px;
+    font-family: 'Roboto Mono', monospace;
+}
